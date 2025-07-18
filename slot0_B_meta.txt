@@ -1,1 +1,4 @@
-ÿþ
+meeting_id=202507182015
+    start_time=1752848100
+    end_time=1752849000
+    content_hash=6332a81e
