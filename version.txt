@@ -1,2 +1,2 @@
-version=8
+version=1
 changed=slot0_B,slot0_C
