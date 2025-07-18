@@ -1,1 +1,2 @@
-7
+version=0
+changed=slot0_B,slot0_C
